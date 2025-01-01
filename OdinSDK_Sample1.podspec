@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
     s.name         = "OdinSDK_Sample1"
-    s.version      = "0.0.1"
+    s.version      = "0.0.2"
     s.summary      = "OdinSDK_Sample1 SDK Test"
     s.license      = {
         "type": "Apache License, Version 2.0",
