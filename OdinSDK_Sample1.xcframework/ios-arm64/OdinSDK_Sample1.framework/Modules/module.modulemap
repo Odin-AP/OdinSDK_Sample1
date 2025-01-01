@@ -1,0 +1,6 @@
+framework module OdinSDK_Sample1 {
+  umbrella header "OdinSDK_Sample1.h"
+  export *
+
+  module * { export * }
+}
