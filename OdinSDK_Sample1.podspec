@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
         "type": "Apache License, Version 2.0",
         "file": "LICENSE"
       }
-      
+   s.homepage     = "https://github.com/Odin-AP/OdinSDK_Sample1"
     s.author         = { "Odin-AP" => "odin.song@adpopcorn.com" }
     s.source       = { :git => "https://github.com/Odin-AP/OdinSDK_Sample1.git", :tag => "#{s.version.to_s}" }
     
